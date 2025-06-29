@@ -20,7 +20,9 @@ KEIL C Compiler : For embedded C programming.
 PROGRAMMING IN EMBEDDED C :The primary programming language for LPC2148.
 Flash Magic:To load the program onto the LPC2148.
 
-🏗️ SYSTEM ARCHITECTURE: image image
+🏗️ SYSTEM ARCHITECTURE:
+![image](https://github.com/user-attachments/assets/0930efc8-961f-4aa0-8f3c-aa52f43619b8)
+
 
 🔑 KEY FEATURES:
 
